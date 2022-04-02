@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CarsMeshAndMaterialGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: CarsMeshAndMaterialGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2e52ae20d1bfd4846b58b0c7319c0be9
+  m_SerializeEntries:
+  - m_GUID: 68840c673a0b18e41a044ed077548d55
+    m_Address: Assets/Course Library/Vehicles/Veh_Van_Green_Z.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70bf34f6c25c948458f254e87188b00b
+    m_Address: Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09082afec7b5e824ca611a0cc3264bcd
+    m_Address: Assets/Course Library/Vehicles/Veh_Car_Blue_Z.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da59e5a3713884d4f9e9667c2befa1a4
+    m_Address: Assets/Course Library/Vehicles/Veh_Bus_Blue_Z.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aea2a6cdcc9d7944090d528486ebaee1
+    m_Address: Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 11d53a8c29d20c84ebc8ffdf85a60960, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: de89ce1416d9fcb40ae3a657d0303a8a, type: 2}
+    - {fileID: 11400000, guid: 4906e4b88b95ef048b6f333464ee488e, type: 2}
