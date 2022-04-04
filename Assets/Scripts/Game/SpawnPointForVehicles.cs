@@ -37,6 +37,7 @@ namespace Game
         {
             Vehicle vehicle = Instantiate(prefab).GetComponent<Vehicle>();
                     vehicle.SetPosition(transform.position);
+                    vehicle.transform.SetParent(transform);
         }
     }
 }
